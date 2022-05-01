@@ -1,0 +1,12 @@
+
+{
+"firstname":"Andrei",
+ "lastname":"Shkadun",
+ "age":"30"
+},
+{"pets":[ "type":"cat",
+          "name":"zefir"]
+},
+{"career_objective":"Junior_QA_Engineer"}
+          
+ 
